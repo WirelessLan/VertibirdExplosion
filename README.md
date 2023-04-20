@@ -14,7 +14,7 @@ F4SE plugin enables the Vertibird to explode in mid-air
 
 # Building
 ```
-git clone https://github.com/Ryan-rsm-McKenzie/CommonLibF4
+git clone https://github.com/powerof3/CommonLibF4
 cd CommonLibF4
 git clone https://github.com/WirelessLan/ReloadFix
 cd ReloadFix
